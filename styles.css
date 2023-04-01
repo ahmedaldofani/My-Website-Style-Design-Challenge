@@ -1,0 +1,92 @@
+section{
+  border: 2px solid grey;
+  margin: 50px;
+  margin-top: 20px;
+  min-width:100px;
+  line-height: 1.7;
+}
+ul {
+   list-style-type: none;
+}
+.color{
+  display: inline-block;
+  position:relative;
+  text-align: center;
+  padding: 10px;
+  margin: 5px;
+}
+span{
+  color: blue;
+}
+#BlueViolet{
+  background-color:RGB(138,43,226);
+  width:200px;
+  height:100px;
+}
+#Aquamarine{
+  background-color:RGB(127,255,212);
+  width:200px;
+  height:100px;
+}
+#Gold{
+  background-color:RGB(255,215,0);
+  width:200px;
+  height:100px;
+}
+#OliveDrab{
+  background-color:RGB(107,142,35);
+  width:200px;
+  height:100px;
+}
+.guides{
+  margin-left: 50px;
+}
+h3{
+  color: red;
+  margin-bottom: 0px;
+  margin-left:15px;
+}
+p{
+  font-style:italic;
+}
+.Merriweatherregular{
+  font-family:'Merriweather', serif;
+}
+.Merriweatheritalic{
+  font-family:'Merriweather', serif;
+  font-style: italic;
+}
+.Merriweatherbold{
+  font-family:'Merriweather', serif;
+  font-weight: bold;
+}
+.WorkSansregular{
+  font-family:'Work Sans', serif;
+}
+.WorkSansitalic{
+  font-family:'Work Sans', serif;
+  font-style: italic;
+}
+.WorkSansbold{
+  font-family:'Work Sans', serif;
+  font-weight: bold;
+}
+.textStyle{
+  padding-left: 15px;
+  margin-bottom: -10px;
+}
+#heading{
+  font-weight: 800;
+  font-size: 30px;
+  font-family: "Work Sans";
+}
+#subheading{
+  font-weight: 600;
+  font-size: 25px;
+  font-family: "Work Sans";
+}
+#paraghraph{
+  font-weight: 400;
+  font-size: 16px;
+  font-family: "Merriweather";
+}
